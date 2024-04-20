@@ -18,7 +18,7 @@
 //*
  //  * @project_name : XLICON-V3-MD
  //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
+ //  * @youtube : https://www.youtube.com/nyt
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //* 
@@ -28,7 +28,7 @@
 //Telegram: t.me/ahmmitech
 //GitHub: @salmanytofficial
 //WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Deon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
